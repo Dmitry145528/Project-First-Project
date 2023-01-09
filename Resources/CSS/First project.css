@@ -1,0 +1,104 @@
+html {
+    font-size: 16px;
+  }
+  
+  body {
+    color: black;
+    padding: 1.5rem;
+    font-family: sans-serif;
+  }
+  
+  h1, p, h3 {
+    margin-left: 6rem;
+  }
+  
+  nav {
+    background-color: #312f30;
+    text-align: center;
+    border-radius: 2px;
+    padding: 2rem;
+    margin: 2rem 6rem;
+  }
+  
+  nav a {
+    color: white;
+    padding: 2rem;
+    text-decoration: none;
+    border-radius: 2px;
+    font-weight: bold;
+    font-family: Arial;
+  }
+  
+  nav a:hover {
+    background-color: #ff3f40;
+  }
+  
+  #home p {
+    color: grey;
+    padding-right: 5rem;
+    margin-top: -2rem;
+  }
+  
+  
+  #home h1 {
+    font-size: 3rem;
+    font-weight: bold;
+    margin-top: 4rem;
+  }
+  
+  #home h3 {
+    margin-top: 3rem;
+  }
+  
+  
+  #home h3 a {
+    color: white;
+    background-color: #ff3f40;
+    text-decoration: none;
+    border-radius: 5px;
+    padding: 0.75rem 2rem;
+    margin-top: 2rem;
+  }
+  
+  section {
+    display: flex;
+  }
+  
+  .background {
+    background-color: #f6f2f1;
+    padding-top: 0.2rem;
+    padding-bottom: 5rem;
+  }
+  
+  video {
+    margin-right: 6rem;
+    margin-top: 4rem;
+  }
+  
+  #portfolio h1, p, h3 {
+    color: grey;
+  }
+  
+  #portfolio h3 {
+    padding: 2rem 0;
+  }
+  
+  #portfolio h3 a {
+    color: #ff3f40;
+    text-decoration: none;
+    padding: 0.65rem 2rem;
+    border: 2px #ff3f40 solid;
+    border-radius: 5px;
+  }
+
+  .dispflex {
+    display: flex;
+  
+  }
+
+  #portfolio h1 {
+    font-size: 2rem;
+    margin-top: 7rem;
+  }
+  
+  
